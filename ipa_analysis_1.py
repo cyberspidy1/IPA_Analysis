@@ -13,7 +13,7 @@ logging.basicConfig(
 )
 
 # Constants
-IPA_FILE = "/Users/abhishek/Documents/Bankbazaar.ipa"
+IPA_FILE = "/PATH/TO/IPA.ipa"
 EXTRACTED_PATH = "extracted_app"
 REPORT_FILE = "analysis_report.txt"
 
